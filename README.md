@@ -76,11 +76,11 @@ Output
 2. Save the script as assignment.py.
 3. Run the script in your terminal:
 
-```
-python assignment.py
-```
 
----
+python assignment.py
+
+
+
 
 📚 Concepts Demonstrated
 
@@ -90,7 +90,7 @@ python assignment.py
 * Inheritance – Smartphone inherits from Device
 * Polymorphism – Different move() behaviors across Car, Plane, and Boat
 
----
+
 
 🚀 Extensions (Optional)
 
@@ -98,10 +98,8 @@ python assignment.py
 * Add more subclasses (e.g., Train.move() → "Chugging 🚂")
 * Connect the Smartphone class with a simple contact list feature
 
----
+
 
 ✍️ Author: Geoffrey Ndungi Kimani
 
----
 
-Do you want me to also format this as a **ready-to-submit PDF README** so it looks polished for your lecturer?
